@@ -1,7 +1,7 @@
 # Setup
-title: vzteklej Motýl
+title: Vzteklej Motýl
 tagline: Vzteklé, ale konstruktivní dopisy politikům, státotvůrcům a dalším
-  břídilům našeho státečku.
+  břídilům
 url: http://vzteklejmotyl.cz
 paginate: 1
 baseurl: ""
@@ -41,6 +41,7 @@ author:
   name: Daniel Motýl Rychlý
   url: https://twitter.com/essentialenemy
   email: me@essentialenemy.com
+  github_username: Moteele
 
 # Custom vars
 version: 1.3.0
